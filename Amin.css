@@ -1,0 +1,63 @@
+h1{
+
+color: white;   
+text-align: center; 
+font-size: 600%;
+
+}
+
+p{
+color: white;
+text-align: center;
+font-size: 250%;
+background-color: black;
+
+
+}
+
+body {
+    background-image: linear-gradient( to right, blue, white);
+}
+
+hr{
+background-color: black;
+border-radius: 100%;
+
+}
+image1{
+
+  font-size: 20%;  
+}
+
+p{
+
+background-color: black;
+}
+
+.image2 {
+
+width :100px;
+height:200px;
+}
+
+.icon{
+
+color: orange;
+}
+
+.icon2 {
+color: orange;
+}
+
+icon3 {
+color :orange;
+}
+
+icon4{
+    color: azure;
+}
+icon5{
+    color:azure;
+}
+
+
